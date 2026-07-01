@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6c0221/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說五十頌聖般若波羅蜜經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T08/T08n0248.xml
+    old_id: T08n0248
+hash: sha256:a052ed4f9db55f3154eef396fc94b2c9e84bfdd7376aab6ae623271e1535a678
