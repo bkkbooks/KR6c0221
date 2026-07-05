@@ -34,9 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6c0221_000.yaml, hash: 'sha256:a052ed4f9db55f3154eef396fc94b2c9e84bfdd7376aab6ae623271e1535a678'}
-  - {seq: 1, filename: KR6c0221_001.yaml, hash: 'sha256:36e627cb99ea42fbf8f43da041e4de0eedd5bf1e6d6a4c4bb7b4efa0e1cfbe15'}
+  - {seq: 1, filename: KR6c0221_001.yaml, hash: 'sha256:02e5b1526134880b692f5ccbab57ad5a8a0cadfd2d8e6bdc1f946c262ee32244'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6c0221_001.markers.yaml, hash: 'sha256:44ad6987a23fad8ddffbe2d33e134bb3b51e684fd388d26d17d8d610713fc50c'}
+  - {seq: 0, role: markers, filename: assets/KR6c0221_000.markers.yaml, hash: 'sha256:dae6bc31e6c0d9a5be39999ccb66fa73e6754ebc9368087f62dd880f6c2bfe58'}
+  - {seq: 1, role: markers, filename: assets/KR6c0221_001.markers.yaml, hash: 'sha256:fbb5a51e0c7ec8193da68c4c379a4b2827ae4b471338b0f99d1b1e4fccbd6795'}
 table_of_contents:
 - ref:
     seq: 1
@@ -48,7 +49,4 @@ table_of_contents:
   label: 佛說五十頌聖般若波羅蜜經
   type: juan
   level: 1
-hash: sha256:60698fb9f11797b74e6c26299f8c668bfa0f879f273e33ec0974b897235f48c0
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:2e89dfbab24e4495376dcbe51455fc3b16ec4822154c6537af7c54bbc3586ffd
